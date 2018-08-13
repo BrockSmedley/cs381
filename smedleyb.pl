@@ -1,3 +1,6 @@
+% CS381 HW5
+% Hadi Rahal-Arabi & Brock Smedley
+
 % Here are a bunch of facts describing the Simpson's family tree.
 % Don't change them!
 
